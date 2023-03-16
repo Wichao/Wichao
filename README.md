@@ -15,5 +15,5 @@
     🍉 Take a look at my stats  🌱
   </samp>
 </p>
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=wichao&show_icons=true&include_all_commits=true&theme=tokyonight &hide_border=true" alt="wichao's github stats" /> 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wichao&layout=compact&theme=tokyonight &hide_border=true" />
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=wichao&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="wichao's github stats" /> 
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wichao&layout=compact&theme=tokyonight&hide_border=true" />
