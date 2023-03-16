@@ -13,6 +13,5 @@
 <h2 align="center">
     🍉 Take a look at my stats  🌱
 </h2>
-<img height="110"  src="https://github-readme-stats.vercel.app/api?username=Wichao&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="wichao's github stats" /><img height="110" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wichao&hide_title=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
-<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wichao&hide_title=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wichao&hide_title=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
+<img height="130"  src="https://github-readme-stats.vercel.app/api?username=Wichao&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="wichao's github stats" /><img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wichao&hide_title=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
+
