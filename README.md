@@ -13,4 +13,6 @@
 <p align="center">
     🍉 Take a look at my stats  🌱
 </p>
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=wichao&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="wichao's github stats" /> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wichao&hide_title=true&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=wichao&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="wichao's github stats" /> 
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?
+    username=wichao&hide_title=true&layout=compact&theme=tokyonight&hide_border=true />
